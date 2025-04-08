@@ -1,0 +1,13 @@
+{
+    "destination": "Tokyo",
+    "attractions": ["Shibuya Crossing", "Tokyo Tower", "Senso-ji Temple"],
+    "weather": {
+      "spring": {
+        "averageHigh": "18°C",
+        "averageLow": "10°C",
+        "description": "Mild and blooming"
+      }
+    },
+    "visited": false,
+    "bestTimeToVisit": "March to May"
+  }

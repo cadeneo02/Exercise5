@@ -1,0 +1,13 @@
+{
+    "destination": "London",
+    "attractions": ["Tower of London", "British Museum", "Buckingham Palace"],
+    "weather": {
+      "summer": {
+        "averageHigh": "22°C",
+        "averageLow": "15°C",
+        "description": "Warm and sunny"
+      }
+    },
+    "visited": true,
+    "bestTimeToVisit": "May to September"
+  }

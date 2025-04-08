@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: auto;
+    background-color: #222;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #4a90e2;
+  }
+  
+  #output {
+    margin-top: 20px;
+  }
+  
+  p {
+    font-style: italic;
+    color: #f0c040;
+  }
